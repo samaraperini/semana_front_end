@@ -1,4 +1,4 @@
-# Stranger_Things
+# Stranger_Things(apenas códigos)
 ## 💻 Tecnologias
 - HTML
 - CSS
